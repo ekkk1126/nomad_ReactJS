@@ -1,0 +1,49 @@
+.container {
+    font-family: Roboto, Arial;
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 24px;
+    background-color: #0F0F0F;
+    color: white;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.text {
+    font-size: 23px;
+}
+
+.coverImage {
+    border-radius: 20px;
+    box-shadow: 7px 5px 15px #6a6a6abe;
+    position: fixed;
+    z-index: 1;
+    top: 120px;
+    right: 80px;
+    margin: 0px 50px 0px 50px;
+
+}
+
+.info1 {
+    z-index: 3;
+}
+
+.info2 {
+    z-index: 3;
+    position: static;
+    font-size: 23px;
+}
+
+.des {
+    margin: 8px 8px 8px 8px;
+    padding: 5px 5px 5px 5px;
+    width: 850px;
+}
+
+.hr {
+    width: 1000px;
+    position: fixed;
+}

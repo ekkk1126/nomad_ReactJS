@@ -1,0 +1,19 @@
+.cover {
+    border-radius: 25px;
+    box-shadow: 3px 3px 10px #cececea1;
+}
+
+.Mtitle {
+    font-size: 18px;
+    margin: 10px 0px;
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    color: white;
+}
