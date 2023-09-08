@@ -9,8 +9,15 @@ ReactJS 로 영화 웹 서비스 만들기 by nomadcoders
   [https://ekkk1126.github.io/nomad_vanillaJSChallenge/](https://ekkk1126.github.io/nomad_ReactJS/)
 
 
-  ![nomadJSChanllege](https://github.com/ekkk1126/nomad_vanillaJSChallenge/assets/115553490/10c55bf1-d543-4d40-915e-1583e5c3c773)
+- 영화 목록
+![화면 캡처 2023-09-08 172142](https://github.com/ekkk1126/nomad_ReactJS/assets/115553490/bdb40a39-b15b-4d10-bb95-21da1d98f185)
 
+<br />
 
-  
-  
+- 영화 소개
+![화면 캡처 2023-09-08 172159](https://github.com/ekkk1126/nomad_ReactJS/assets/115553490/69cd351c-35e2-41d5-afa8-dfedfa9aa2d3)
+
+<br />
+
+- 로딩중
+![화면 캡처 2023-09-08 172210](https://github.com/ekkk1126/nomad_ReactJS/assets/115553490/05c7365e-722b-4743-b008-1ee8c715d5e2)
